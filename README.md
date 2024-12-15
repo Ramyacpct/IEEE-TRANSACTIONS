@@ -5,6 +5,6 @@ Use HFSS to run “UWSB Bandpass Filter.py,” design the UWSB Bandpass Filter, 
 1.	UWSB Bandpass Filter.py
    Description: In this file, the UWSB BPF simulation codes are included
 2.	S-Parameters results.txt:
-  Description: In this file, the S-parameter results are included.
+  Description: In this file, the S-parameter results are included
 3.	Graphical Abstract.png:
-   Description: In this file, the graphical abstract is included.
+   Description: In this file, the graphical abstract is included
